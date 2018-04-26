@@ -1,0 +1,96 @@
+Package Manager (PiP)
+
+Packages : Collections of Modules :  >  Maths, OS, Sys, Date, time
+
+Packages are avaible online ( Python.org.com)
+
+PiP :  Install, create, etc..
+
+
+Virtual Enviornment (Package) >  Creates isolated python projects
+
+
+Install
+download
+uninstall
+freeze
+list
+show
+search
+wheel
+hash
+completion
+help
+---------------------------------------
+
+Installing virtualenv
+
+>pip install vierual env 
+
+----------------------------------------------
+
+Creating a python project in virtualenv
+
+> virtualenv projectname
+> Activate your phython project
+
+In Win > Goto scripts > activate
+
+-----------------------------------------
+
+Deactivate
+
+> toto scripts > deactivate
+
+-------------------------------------
+
+
+Microsoft Windows [Version 10.0.16299.125]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\rasat>cd Desktop
+
+C:\Users\rasat\Desktop>dir
+ Volume in drive C is OS
+ Volume Serial Number is DCEE-CAB7
+
+ Directory of C:\Users\rasat\Desktop
+
+23-04-2018  12:42    <DIR>          .
+23-04-2018  12:42    <DIR>          ..
+26-04-2018  12:00             5,585 dev.txt
+23-04-2018  12:29                31 p1.py
+23-04-2018  12:18                 0 Python - Sublime
+23-04-2018  12:43               757 python_23.04.txt
+23-04-2018  12:31    <DIR>          satishra7
+               4 File(s)          6,373 bytes
+               3 Dir(s)  926,236,319,744 bytes free
+
+C:\Users\rasat\Desktop>git clone https://github.com/rasatish7/ClassDS.git
+Cloning into 'ClassDS'...
+warning: You appear to have cloned an empty repository.
+
+C:\Users\rasat\Desktop>cd ClassDS
+
+C:\Users\rasat\Desktop\ClassDS>dir
+ Volume in drive C is OS
+ Volume Serial Number is DCEE-CAB7
+
+ Directory of C:\Users\rasat\Desktop\ClassDS
+
+26-04-2018  12:21    <DIR>          .
+26-04-2018  12:21    <DIR>          ..
+26-04-2018  12:00             5,585 dev.txt
+23-04-2018  12:29                31 p1.py
+               2 File(s)          5,616 bytes
+               2 Dir(s)  926,173,315,072 bytes free
+
+C:\Users\rasat\Desktop\ClassDS>
+
+----------------------------
+
+Git Status
+Git add
+Git push
+
+----------------------------------------
